@@ -29,7 +29,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package components;
+package dan.file;
 
 import javax.swing.*;
 import java.beans.*;
